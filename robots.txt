@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://finelabantn45.github.io/fine-laban-ecommerce/sitemap.xml
